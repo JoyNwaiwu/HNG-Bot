@@ -1,0 +1,59 @@
+   body{
+            margin:0;
+            background:#f2f2f2;
+        }
+        #header{
+            width:100%;
+            height:60px;
+            background-color:#333;
+            shadow: 4px 10px 8px #333;
+        }
+
+        #header>h1{
+            padding:12px;
+            width:1024px;
+            margin:0px auto;
+            color:white;
+        }
+
+        #container{
+            width:500px;
+            min-width:390px;
+            height:600px;
+            margin:0px auto;
+            margin-top:20px;
+            background-color:white;
+            border:1px solid #333;
+            overflow: scroll;
+        }
+
+        #controls{
+            width:500px;
+            margin:0px auto;
+        }
+
+        textarea{
+            resize:none;
+            width:430px;
+        }
+
+        #send{
+            font-size:26px;
+            position:absolute;
+        }
+
+        .username{
+            color:blue;
+            font-weight:bold;                
+            
+        }
+
+        .bot{
+            color:green;
+            font-weight:bold;
+            padding:5px;
+        
+            
+            
+            
+        }
